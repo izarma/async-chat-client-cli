@@ -1,4 +1,4 @@
-# Async Chat Client
+# Flycatcher Async Chat Client CLI
 
 [![Built with Tokio](https://img.shields.io/badge/built%20with-Tokio-%23ECD53F)](https://tokio.rs)
 [![Rust](https://img.shields.io/badge/rust-1.72%2B-orange)](https://www.rust-lang.org)
